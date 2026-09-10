@@ -11,7 +11,7 @@ public class hellojava {
     System.out.println("newade");
     System.out.println("daxue");
     System.out.println("软件工程");
-        System.out.println("dhigoh");
+        System.out.println("这是我的第二次修改");
 
 
 }
