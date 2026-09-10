@@ -21,7 +21,7 @@ public class OperatorDemo {
         boolean y = false;
 
         System.out.println("x && y = " + (x && y));
-        System.out.println("x || y = " + (x || y));git add .
+        System.out.println("x || y = " + (x || y));
         System.out.println("!x = " + (!x));
         //练习
         double principal = 10000.0; // 本金
