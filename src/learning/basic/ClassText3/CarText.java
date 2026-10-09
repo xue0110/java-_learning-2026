@@ -20,11 +20,14 @@ public class CarText {
             arr[i] = car;
 
         }
+        int a=0;
         for (int i = 0; i < arr.length; i++) {
             Car car = arr[i];
+            a+=arr[i].getPrice();
             System.out.println(arr[i].getBrand()+" "+car.getPrice()+" "+car.getColor());
 
         }
+        System.out.println("平均价格"+a/arr.length);
 
     }
 }
